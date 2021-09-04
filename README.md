@@ -12,3 +12,4 @@ Sauntercasts is a media format that combines location with audio.
 
 Reference
 * https://visgl.github.io/react-map-gl/examples/draggable-markers
+* http://goodcitylife.org/chattymaps/index.php
