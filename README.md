@@ -19,3 +19,4 @@ Reference
 * https://docs.mapbox.com/mapbox-gl-js/example/drag-a-marker/
 * https://visgl.github.io/react-map-gl/examples/draggable-markers
 * http://goodcitylife.org/chattymaps/index.php
+* https://en.wikipedia.org/wiki/Chautauqua (Chautauqua)
